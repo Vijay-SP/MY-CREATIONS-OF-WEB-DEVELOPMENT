@@ -1,2 +1,2 @@
-# MY-CREATIONS-OF-WEB-DEVELOPMENT
-Here i put my small projects of web development
+# Instagram Login Ui Clone
+This Repo Contains the instagram web login UI...
